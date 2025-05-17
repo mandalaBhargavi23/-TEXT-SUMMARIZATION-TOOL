@@ -28,3 +28,8 @@ This project has many useful applications. In education, students can use it to 
 
 In conclusion, the Text Summarization Tool is a valuable software application that leverages modern NLP and AI techniques to help users handle large amounts of information quickly and effectively. It is a practical solution with real-world use cases and serves as a great learning project for those interested in artificial intelligence and language processing technologies.
 
+
+OUTPUT :  
+
+![Image](https://github.com/user-attachments/assets/12183f17-270d-4962-b330-17863572c0bc)
+
